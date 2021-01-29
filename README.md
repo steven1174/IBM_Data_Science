@@ -1,2 +1,2 @@
-# IBM-Data-Science
-Jupyter notebooks used in the course offered by IBM
+# IBM_Data_Science
+Jupyter notebooks based on IBM Data Science Professional Certificate
